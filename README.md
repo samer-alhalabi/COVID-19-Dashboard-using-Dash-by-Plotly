@@ -2,5 +2,4 @@
 
 #### Dash is a productive Python framework for building web analytic applications. For more info: https://dash.plotly.com/introduction
 
-
-
+![image](images/dashbaords.jpg)
